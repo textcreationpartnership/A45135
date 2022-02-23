@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Materials for union, proposed to publick consideration, with indifferency to all parties by  M.A. Pem. Col. Oxon.</title>
+            <author>Humfrey, John, 1621-1719.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45135</idno>
+            <idno type="STC">Wing H3685</idno>
+            <idno type="STC">ESTC R15853</idno>
+            <idno type="EEBO-CITATION">11849664</idno>
+            <idno type="OCLC">ocm 11849664</idno>
+            <idno type="VID">49908</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45135)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49908)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 498:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Materials for union, proposed to publick consideration, with indifferency to all parties by  M.A. Pem. Col. Oxon.</title>
+                  <author>Humfrey, John, 1621-1719.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by the booksellers in Oxford,</publisher>
+                  <pubPlace>Oxford [Oxfordshire] :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Humfrey. Cf. Halkett &amp; Laing (2nd ed.).</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  Church of England.</term>
+               <term>Protestants --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49908:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 33 -->
+            <p>MATERIALS FOR UNION, Propoſed to Publick Conſideration, With Indifferency <hi>To All Parties.</hi>
+            </p>
+            <p>By—M. A. <hi>Pem. Col.</hi> Oxon.</p>
+            <p>
+               <q>Let Your Moderation be known unto all Men. The Lord is at hand.</q>
+            </p>
+            <p>Printed, And are to be Sold by the Bookſellers in <hi>OXFORD,</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:49908:2"/>
+            <!-- PDF PAGE 34 -->
+            <pb n="3" facs="tcp:49908:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 34 -->
+            <head>Materials <hi>FOR</hi> Vnion.</head>
+            <p>WHereas there are Three Parties of <hi>Proteſtants</hi> in the Nation, the <hi>Epiſcopalian,</hi> the <hi>Presbyterian,</hi> and the <hi>Independent</hi> (or <hi>Congre<g ref="char:EOLhyphen"/>gational</hi> Men, which are of di<g ref="char:EOLhyphen"/>verſe ſorts) who do, and will ever differ in their Opinions about the <hi>Church,</hi> and <hi>Diſcipline</hi> of it, in the Queſtion, which is of Chriſt's Inſti<g ref="char:EOLhyphen"/>tution; or, Whether the One, or the Other, is moſt conſonant to Scripture: it is not our Diſputes about the Church as <hi>Particular</hi> (which are rather to be mutually forborn, and every Party left herein to their own Perſwaſion) but a Common Agreement in what we <hi>Can</hi> Agree, and that is in the Church as <hi>National,</hi> muſt Heal our Diviſions.</p>
+            <p>It is here we muſt lay the Foundation-Stone of <hi>Union.</hi>
+            </p>
+            <pb n="4" facs="tcp:49908:3"/>
+            <!-- PDF PAGE 35 -->
+            <p>When the Parliament then ſhall ſet about This Buſineſs to purpoſe, A Bill ſhould be brought in for <hi>Declaring</hi> the <hi>Conſtitution</hi> of Our <hi>Church of England.</hi>
+            </p>
+            <p>A Parliament is the Repreſentative of the whole People of <hi>England,</hi> and I doubt not, but by Conſent and Agreement, they might <hi>Make</hi> a New Conſtitution of the CHURCH, as it is <hi>National;</hi> and much more may they <hi>Declare</hi> the Conſtitution of it.</p>
+            <p>The Papiſts are for one Univerſal Organical Church throughout the world, whereof the Pope is Head by Chriſt's Appointment; and whoſo<g ref="char:EOLhyphen"/>ever conſequently is not of this <hi>Roman Catholick</hi>-Church, and Governed by him, muſt be Damn'd. There are ſome of our late Prelatiſts are for the ſame Church, but under the Dioceſan Biſhops of the whole Earth, who being Convened in a <hi>General Council,</hi> are the <hi>Head</hi> that muſt give Laws to it; and whoſoever refuſe to be Govern'd by the Laws of theſe General Councils, are <hi>Schiſ<g ref="char:EOLhyphen"/>maticks.</hi> I am much rather therefore, in my mind, for the Notion (which is that in the Embryo the Revered Dean of St. <hi>Pauls</hi> ſeems to me to aim at, if it could be once well formed) of an <hi>Independent National</hi> Church Political, but not to be held, as the Congregationaliſt ſuppoſes his <hi>Particular Indepen<g ref="char:EOLhyphen"/>dent
+<pb n="5" facs="tcp:49908:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 35 -->One,</hi> and They their Catholick, to be of <hi>Divine,</hi> but of <hi>Humane Inſtitution;</hi> for it is mani<g ref="char:EOLhyphen"/>feſtly a thing <hi>Accidental</hi> to the Church of Chriſt, that the Supreme Magiſtrate, and the whole Body of a Nation, are Chriſtian.</p>
+            <p>It ſhould be declared then in ſuch a Bill or Act of Parliament, that the Church of <hi>England</hi> conſiſts of the KING as the Head, and all the ſeveral Aſſemblies of the Proteſtants as the Body.</p>
+            <p>A Diſcrimination between the <hi>Tolerable</hi> and <hi>Intolerable,</hi> is never to be gain-ſaid by any Wiſe Man.</p>
+            <p>It is not for me, or any <hi>One</hi> perſon, but a <hi>Con<g ref="char:EOLhyphen"/>vocation,</hi> or <hi>Parliament,</hi> to preſcribe the Terms of <hi>National Communion;</hi> but I would have all our <hi>Aſſemblies</hi> that are <hi>Tolerable,</hi> to be made <hi>Legal</hi> by ſuch an <hi>Act,</hi> and thereby parts of the <hi>National</hi> Church, as well as the <hi>Parochial</hi> Congregations.</p>
+            <p>That the Biſhops ſhould be declared Eccleſi<g ref="char:EOLhyphen"/>aſtical Officers under the KING, acting <hi>Circa Sacra</hi> only, by Vertue of <hi>His</hi> Authority and Com<g ref="char:EOLhyphen"/>miſſion.</p>
+            <p>As <hi>Jehoſhophat</hi> appointed Officers for Govern<g ref="char:EOLhyphen"/>ment in the <hi>Matters of God,</hi> and the <hi>Kings Matters:</hi> So ſhould the <hi>Biſhops</hi> be in Our <hi>Eccleſiaſtical,</hi> as the <hi>Judges</hi> are in <hi>Civil</hi> Matters, the Subſtitutes of His Majeſty, and Execute <hi>His</hi> Juriſdiction.</p>
+            <pb n="6" facs="tcp:49908:4"/>
+            <!-- PDF PAGE 36 -->
+            <p>Upon this Account, if any of the Eminent among the Non-conformiſts were Choſen to be Biſhops, they could not refuſe it.</p>
+            <p>Let Dr. <hi>Owen</hi> and Mr. <hi>Baxter</hi> be the Two next that are called to this Function upon ſuch an Act, and commanded to Hold it, and then would UNION indeed Commence.</p>
+            <p>Their Work in general, ſhould be to Superviſe the Churches of both ſorts in their Dioceſſes, that they all Walk according to their own Or<g ref="char:EOLhyphen"/>der, agreeably to the Goſpel, and the Peace of one another.</p>
+            <p>I am ſenſible unto what Diſtreſs a Congrega<g ref="char:EOLhyphen"/>tional Miniſter may be brought in the exerciſe of Diſcipline over ſome potent, turbulent, and refractory Members; and what Relief he might find in ſuch an External Eccleſiaſtical Officer as this.</p>
+            <p>This ſhall <hi>Advance,</hi> and not <hi>Leſſen,</hi> the outward Power and Honour of the <hi>Biſhops.</hi>
+            </p>
+            <p>I humbly Motion a <hi>Third</hi> Clerk for the Con<g ref="char:EOLhyphen"/>vocation, to be added to the <hi>Two</hi> in every Dio<g ref="char:EOLhyphen"/>ceſs, and choſe out of the Non-conformiſts for the Unanimous proſecution of Holineſs and Con<g ref="char:EOLhyphen"/>cord throughout all the Churches: And the two Provinces of <hi>Canterbury</hi> and <hi>York</hi> ſhould Unite in this <hi>Convocation,</hi> for the making them one <hi>Na<g ref="char:EOLhyphen"/>tional</hi>
+               <pb n="7" facs="tcp:49908:4"/>
+               <!-- PDF PAGE 36 -->Church, and not two <hi>Provincial</hi> ones in a di<g ref="char:EOLhyphen"/>verſe Aſſembly.</p>
+            <p>I ſhould expect then ſuch Canons to be made, as would render us all happy in the ſatisfaction of both Parties.</p>
+            <p>An Act of Parliament to this purpoſe, would make the Church of <hi>England</hi> to be in Earneſt, ſuch a Church, as the Church-men would have us ſtill think it, the <hi>Beſt Conſtituted,</hi> the moſt <hi>Exemplary,</hi> and the moſt <hi>Glorious</hi> of any that is, or indeed, that well can be in this World.</p>
+            <p>And thus I have offered my Mite to the <hi>Sanctu<g ref="char:EOLhyphen"/>ary;</hi> that is, ſo much as I have, and what I think fit for Cultivation by Others, whom GOD ſhall make Wiſe-hearted, and Concern'd, for the Wel<g ref="char:EOLhyphen"/>fare of <hi>Syon.</hi>
+            </p>
+            <p>There is Room alſo here left for the far<g ref="char:EOLhyphen"/>ther Invention of Such, in regard to many the like things as theſe: For they that will, may ſee ſome<g ref="char:EOLhyphen"/>thing more in a few Sheets, in <hi>part</hi> Entituled, <hi>Animadverſions upon the Debate between Dr.</hi> Stillingfleet <hi>and Mr.</hi> Baxter, <hi>Concerning the National Church, and Head of it.</hi> Unto which this Paper may be Stitched.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
